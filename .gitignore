@@ -89,3 +89,5 @@ IntroProject/Temp/workerlic
 *.traceevents
 IntroProject/Library/Bee/fullprofile.json
 IntroProject/Library/Bee/tundra.digestcache
+*.log
+*.digestcache
