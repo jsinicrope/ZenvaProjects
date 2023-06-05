@@ -91,3 +91,7 @@ IntroProject/Library/Bee/fullprofile.json
 IntroProject/Library/Bee/tundra.digestcache
 *.log
 *.digestcache
+*.log
+IntroProject/Library/SourceAssetDB
+IntroProject/Library/SceneVisibilityState.asset
+IntroProject/Library/ArtifactDB
